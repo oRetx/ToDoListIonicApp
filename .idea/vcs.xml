@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ToDoTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ionic-app-todo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ionic-todo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todoapp" vcs="Git" />
+  </component>
+</project>
