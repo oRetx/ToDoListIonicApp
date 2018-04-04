@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/ToDoTest/www" />
+      <excludeFolder url="file://$MODULE_DIR$/ionic-app-todo/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionic-todo/www" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
