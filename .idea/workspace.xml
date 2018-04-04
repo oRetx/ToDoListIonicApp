@@ -5,9 +5,6 @@
       <change afterPath="$PROJECT_DIR$/todoapp/service/dbservice.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todoapp/src/app.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todoapp/src/app/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ToDo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ToDo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoTest" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoTest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoTest/src/pages/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoTest/src/pages/home/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoTest/src/pages/home/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoTest/src/pages/home/home.scss" afterDir="false" />
@@ -46,8 +43,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ionic-app-todo/src/pages/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="420">
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -244,7 +241,7 @@
       <workItem from="1522752235055" duration="757000" />
       <workItem from="1522767892629" duration="971000" />
       <workItem from="1522769073330" duration="2815000" />
-      <workItem from="1522835571712" duration="5428000" />
+      <workItem from="1522835571712" duration="6153000" />
     </task>
     <task id="LOCAL-00001" summary="Ionic app">
       <created>1522150921077</created>
@@ -264,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70283000" />
+    <option name="totallyTimeSpent" value="71008000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -279,7 +276,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32889965" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49301398" visible="true" weight="0.17758985" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49301398" visible="true" weight="0.17758985" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49753347" weight="0.32889965" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5017618" side_tool="true" weight="0.35393938" />
@@ -287,7 +284,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32889965" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4982382" visible="true" weight="0.42303032" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4982382" visible="true" weight="0.42303032" />
       <window_info id="Favorites" order="2" sideWeight="0.506986" side_tool="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -613,8 +610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ionic-app-todo/src/pages/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="420">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>
