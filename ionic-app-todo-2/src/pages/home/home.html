@@ -1,0 +1,58 @@
+<ion-header>
+    <ion-navbar color="primary">
+
+    <ion-nav #mycontent [root]="rootPage"></ion-nav>
+    <ion-title>
+      To do's!
+    </ion-title>
+
+    <ion-buttons end>
+      <button ion-button icon-only (click)="addItem()"><ion-icon name="add-circle"></ion-icon></button>
+
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+    <ion-list>
+
+
+        <ion-item-group reorder="true" (ionItemReorder)="reorderItems($event)">
+          <ion-item-sliding *ngFor="let item of items">
+
+              <ion-item>
+                <ion-label>
+                  {{item.title}}
+                </ion-label>
+
+                <ion-select [ngModel]="prio" (ionChange)="saveInfo()">
+                  <ion-option value="h">High</ion-option>
+                  <ion-option value="m">Medium</ion-option>
+                  <ion-option value="l">Low</ion-option>
+                </ion-select>
+              </ion-item>
+
+              <ion-item-options side="left">
+
+                <button ion-button (click)="viewItem(item)">Description</button>
+
+                <button ion-button color="danger" (click)="removeItem(item)">Delete</button>
+
+
+              </ion-item-options>
+
+              <ion-item-options side="right">
+
+                <button ion-button (click)="setFav(color)" color="third">Priority</button>
+
+              </ion-item-options>
+            </ion-item-sliding>
+
+
+        </ion-item-group>
+
+
+
+  </ion-list>
+</ion-content>
